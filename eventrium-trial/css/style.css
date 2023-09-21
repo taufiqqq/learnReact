@@ -142,7 +142,7 @@ ol {
 }
 
 .spad {
-	padding-top: 100px;
+	padding-top: 10px;
 	padding-bottom: 100px;
 }
 
@@ -647,36 +647,8 @@ ol {
 	float: left;
 }
 
-.hero__search__form form .hero__search__categories {
-	width: 30%;
-	float: left;
-	font-size: 16px;
-	color: #1c1c1c;
-	font-weight: 700;
-	padding-left: 18px;
-	padding-top: 11px;
-	position: relative;
-}
-
-.hero__search__form form .hero__search__categories:after {
-	position: absolute;
-	right: 0;
-	top: 14px;
-	height: 20px;
-	width: 1px;
-	background: #000000;
-	opacity: 0.1;
-	content: "";
-}
-
-.hero__search__form form .hero__search__categories span {
-	position: absolute;
-	right: 14px;
-	top: 14px;
-}
-
 .hero__search__form form input {
-	width: 70%;
+	width: 100%;
 	border: none;
 	height: 48px;
 	font-size: 16px;
@@ -2354,7 +2326,7 @@ ol {
 -----------------------*/
 
 .blog__sidebar {
-	padding-top: 50px;
+	padding-top: 10px;
 }
 
 .blog__sidebar__item {

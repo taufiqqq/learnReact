@@ -33,7 +33,7 @@ const Header = () => {
                       isMenuItemActive("create-event.html") ? "active" : ""
                     }
                   >
-                    <a href="./create-event.html">Create Event</a>
+                    <a href="./my-event.html">My Event</a>
                   </li>
                   <li
                     className={
