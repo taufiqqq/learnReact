@@ -7,3 +7,4 @@ All the materials that i use or create for my learning process of ReactJS, and t
 4. cd project-name
 5. npm install
 6. npm run dev (for local server)
+7. ctrl click the link
